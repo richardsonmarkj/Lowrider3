@@ -25,6 +25,6 @@ Spindle: Kobalt 1.24HP Trim Router
 
 ## Modifications
 
-* Captive nuts in gantry braces (@DougJosephdesign8stu) [Printables](https://www.printables.com/model/317381-lowrider-3-cnc-braces-for-gantry-remixed-to-have-n)
-* Y-Axis Belt Shields (@DrEnchanted_513663
-) [Printables](https://www.printables.com/model/685738-lowrider-3-y-axis-belt-shield-and-front-cap) (caps needed to be printed at 101% to fit correctly. Reflected in as-printed)
+- Captive nuts in gantry braces (@DougJosephdesign8stu) [Printables](https://www.printables.com/model/317381-lowrider-3-cnc-braces-for-gantry-remixed-to-have-n)
+- Y-Axis Belt Shields (@DrEnchanted_513663
+  ) [Printables](https://www.printables.com/model/685738-lowrider-3-y-axis-belt-shield-and-front-cap) (caps needed to be printed at 101% to fit correctly. Reflected in as-printed)
