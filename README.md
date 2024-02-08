@@ -6,6 +6,10 @@ This build is following the documentation here: [V1 Engineering Low Rider CNC 3]
 
 Forum build thread here: [LR3 in Washington - n00b build](https://forum.v1e.com/t/lr3-in-washington-n00b-build)
 
+## As Printed
+
+The [as-printed](./as-printed) directory contains the 3mf files for everything I printed. Files were saved from OrcaSlicer 1.9 which has a different format that is not compatible with earlier versions, but geometry should still load.
+
 ## My build measurements
 
 Work Area: 48" x 24" (1220mm x 610mm)
