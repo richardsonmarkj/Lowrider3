@@ -10,6 +10,12 @@ Forum build thread here: [LR3 in Washington - n00b build](https://forum.v1e.com/
 
 The [as-printed](./as-printed) directory contains the 3mf files for everything I printed. Files were saved from OrcaSlicer 1.9 which has a different format that is not compatible with earlier versions, but geometry should still load.
 
+## Learnings
+
+* Do not overtighten the bearing bolts in the LR3 core. I cracked my first core print by doing this. However if it had not happened then I would not have the two color core I have now!
+
+* PETG and PLA do not stick to each other.  I found this out with the top piece of [as-printed/kobalt-router-mount.3mf](./as-printed/kobalt-router-mount.3mf) as I only have transparent filament in PETG. Hmmm...support material
+
 ## My build measurements
 
 Work Area: 48" x 24" (1220mm x 610mm)
