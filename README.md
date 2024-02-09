@@ -16,6 +16,8 @@ The [as-printed](./as-printed) directory contains the 3mf files for everything I
 
 * PETG and PLA do not stick to each other.  I found this out with the top piece of [as-printed/kobalt-router-mount.3mf](./as-printed/kobalt-router-mount.3mf) as I only have transparent filament in PETG. Hmmm...support material
 
+* IMPORTANT - while I did not see this noted anywhere the singular YZ plate model provided needs to be mirrored for a second copy.  I have updated the [as-printed](./as-printed/YZ%20Plate%20v1.3mf) model to have two build plates with mirrored parts.
+
 ## My build measurements
 
 Work Area: 48" x 24" (1220mm x 610mm)
