@@ -16,7 +16,7 @@ The [as-printed](./as-printed) directory contains the 3mf files for everything I
 
 * PETG and PLA do not stick to each other.  I found this out with the top piece of [as-printed/kobalt-router-mount.3mf](./as-printed/kobalt-router-mount.3mf) as I only have transparent filament in PETG. Hmmm...support material
 
-* IMPORTANT - while I did not see this noted anywhere the singular YZ plate model provided needs to be mirrored for a second copy.  I have updated the [as-printed](./as-printed/YZ%20Plate%20v1.3mf) model to have two build plates with mirrored parts.
+* IMPORTANT - while I did not see this noted anywhere the singular YZ plate model provided needs to be mirrored for a second copy.  I have updated my [as-printed](./as-printed/YZ%20Plate%20v1.3mf) model to have two build plates with mirrored parts.
 
 ## My build measurements
 
@@ -40,3 +40,6 @@ Spindle: Kobalt 1.24HP Trim Router
 - Captive nuts in gantry braces (@DougJosephdesign8stu) [Printables](https://www.printables.com/model/317381-lowrider-3-cnc-braces-for-gantry-remixed-to-have-n)
 - Y-Axis Belt Shields (@DrEnchanted_513663
   ) [Printables](https://www.printables.com/model/685738-lowrider-3-y-axis-belt-shield-and-front-cap) (caps needed to be printed at 101% to fit correctly. Reflected in as-printed)
+- Mid Belt Y Tensioner Blocks (@AzaB2C) [Printables](https://www.printables.com/model/425515-v1e-lowrider-3-mid-belt-y-tensioner-block)
+- Jackpot case with window (DougJosephdesign8stu)[Printables](https://www.printables.com/model/647878))
+- Jackpot end-stop connector combiner (DougJosephdesign8stu) [Printables](https://www.printables.com/model/652845-lowrider-cnc-jackpot-board-end-stop-connector-comb)
