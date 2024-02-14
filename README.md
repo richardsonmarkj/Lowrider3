@@ -12,11 +12,11 @@ The [as-printed](./as-printed) directory contains the 3mf files for everything I
 
 ## Learnings
 
-* Do not overtighten the bearing bolts in the LR3 core. I cracked my first core print by doing this. However if it had not happened then I would not have the two color core I have now!
+- Do not overtighten the bearing bolts in the LR3 core. I cracked my first core print by doing this. However if it had not happened then I would not have the two color core I have now!
 
-* PETG and PLA do not stick to each other.  I found this out with the top piece of [as-printed/kobalt-router-mount.3mf](./as-printed/kobalt-router-mount.3mf) as I only have transparent filament in PETG. Hmmm...support material
+- PETG and PLA do not stick to each other. I found this out with the top piece of [as-printed/kobalt-router-mount.3mf](./as-printed/kobalt-router-mount.3mf) as I only have transparent filament in PETG. Hmmm...support material
 
-* IMPORTANT - while I did not see this noted anywhere the singular YZ plate model provided needs to be mirrored for a second copy.  I have updated my [as-printed](./as-printed/YZ%20Plate%20v1.3mf) model to have two build plates with mirrored parts.
+- IMPORTANT - while I did not see this noted anywhere the singular YZ plate model provided needs to be mirrored for a second copy. I have updated my [as-printed](./as-printed/YZ%20Plate%20v1.3mf) model to have two build plates with mirrored parts.
 
 ## My build measurements
 
@@ -33,7 +33,7 @@ Required tubing:
 - 2 @ 55" for X rails
 - 1 @ 39" in (or to match table depth)
 
-Spindle: Kobalt 1.24HP Trim Router
+Spindle: Kobalt 1.25HP Trim Router
 
 ## Modifications
 
@@ -43,3 +43,5 @@ Spindle: Kobalt 1.24HP Trim Router
 - Mid Belt Y Tensioner Blocks (@AzaB2C) [Printables](https://www.printables.com/model/425515-v1e-lowrider-3-mid-belt-y-tensioner-block)
 - Jackpot case with window (DougJosephdesign8stu)[Printables](https://www.printables.com/model/647878))
 - Jackpot end-stop connector combiner (DougJosephdesign8stu) [Printables](https://www.printables.com/model/652845-lowrider-cnc-jackpot-board-end-stop-connector-comb)
+- Lead Screw Blocks (@stuffnobodyneeds) [Thingiverse](https://www.thingiverse.com/thing:5768637)
+- Stepper and Endstop Extension Clip (@stuffnobodyneeds) [Thingiverse](https://www.thingiverse.com/thing:6044057)
