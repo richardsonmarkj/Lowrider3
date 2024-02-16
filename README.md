@@ -45,3 +45,4 @@ Spindle: Kobalt 1.25HP Trim Router
 - Jackpot end-stop connector combiner (DougJosephdesign8stu) [Printables](https://www.printables.com/model/652845-lowrider-cnc-jackpot-board-end-stop-connector-comb)
 - Lead Screw Blocks (@stuffnobodyneeds) [Thingiverse](https://www.thingiverse.com/thing:5768637)
 - Stepper and Endstop Extension Clip (@stuffnobodyneeds) [Thingiverse](https://www.thingiverse.com/thing:6044057)
+- YZ Cable Trays (@PeterH) [Printables](https://www.printables.com/model/766799-lowrider-3-yz-cable-tidy/files)
